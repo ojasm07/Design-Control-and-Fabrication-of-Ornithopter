@@ -10,3 +10,8 @@ stable flight using lift force and forward thrust generated using flapping of th
 mover here for the flapping mechanism is the BLDC motor. The gearbox is designed using
 optimum reduction of 22.8, so that it would provide sufficient torque and rpm both. 2 test setups
 were used to find the ornithopter can generate enough lift and thrust.
+
+<img src="orni.gif"  />
+
+<br/>
+<br/>
